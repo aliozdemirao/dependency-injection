@@ -56,4 +56,6 @@ dependencies {
 
     implementation(libs.hilt.android)
     kapt(libs.dagger.hilt.android.compiler)
+
+    implementation(libs.retrofit)
 }
